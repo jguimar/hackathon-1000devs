@@ -124,4 +124,3 @@ Joyce de Souza
 <a href="https://www.linkedin.com/in/joyce-desouzacunha/">@Linkedin</a>
 </p>
 
-# hackathon-1000devs
